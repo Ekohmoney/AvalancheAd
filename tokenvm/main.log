@@ -1,0 +1,4 @@
+[12-16|20:28:51.283] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[12-16|20:28:51.337] INFO client/client.go:139 start
+[12-16|20:31:26.869] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[12-16|20:31:27.871] INFO client/client.go:139 start
